@@ -1,0 +1,4 @@
+com\parasoft\parabank\testbase\TestBase.class
+com\parasoft\parabank\testsuite\RegisterTest.class
+com\parasoft\parabank\testsuite\LoginTest.class
+com\parasoft\parabank\AppTest.class
